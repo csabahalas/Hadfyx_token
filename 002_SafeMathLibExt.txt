@@ -1,0 +1,31 @@
+Token name: HADFYX
+
+Token ticker: HDFYX
+
+Token decimals: 18
+
+Multisig wallet address: 0xAFBf12Ef67834A630Cb9b93D7e2c66711FE51987
+
+*****************************
+
+Crowdsale rate: 2000
+
+Crowdsale start time: 2018-06-11T21:52 (GMT + 2)
+
+Crowdsale end time: 2018-08-12T00:00 (GMT + 2)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xC3d98D2157138C5E3866b8494a48224A98aD9399
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]

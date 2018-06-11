@@ -1,0 +1,35 @@
+Token name: HADFYX
+
+Token ticker: HDFYX
+
+Token decimals: 18
+
+Multisig wallet address: 0xAFBf12Ef67834A630Cb9b93D7e2c66711FE51987
+
+*****************************
+
+Crowdsale rate: 2000
+
+Crowdsale start time: 2018-06-11T21:52 (GMT + 2)
+
+Crowdsale end time: 2018-08-12T00:00 (GMT + 2)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for Tier 1: 0x59719a6A0F6c0d9E1056AeB466F5eDE7b45b8c71
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"distributedReservedTokensDestinationsLen","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for Tier 1:**** 
+
+0000000000000000000000007dad8d827ff1a19b52463cdec6ba57deee117ac300000000000000000000000089cb4dd3af51c53039bc1a12120bf9c5cb88e3bc
